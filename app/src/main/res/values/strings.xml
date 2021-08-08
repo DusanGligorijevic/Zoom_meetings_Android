@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ONLINE MEETENGS</string>
+
+
+    <string name="add_event">ADD EVENT</string>
+    <string name="show_events">SHOW EVENTS</string>
+    <string name="export_to_json_file">EXPORT TO JSON FILE</string>
+
+
+    <string name="event_name">Event name</string>
+    <string name="description">Description</string>
+    <string name="check_time_for_location">Check time for location</string>
+    <string name="city">City</string>
+    <string name="set_date">Set date</string>
+    <string name="set_time">Set time</string>
+    <string name="url">Url</string>
+    <string name="save_event">SAVE EVENT</string>
+
+
+    <string-array name="list">
+        <item>America</item>
+        <item>Africa</item>
+        <item>Asia</item>
+        <item>Europe</item>
+        <item>Australia</item>
+    </string-array>
+
+    <string name="event">Event</string>
+    <string name="search_event">Search event</string>
+    <string name="search">Search</string>
+
+</resources>
